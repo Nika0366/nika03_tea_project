@@ -1,0 +1,27 @@
+{
+  "name": "nika03_tea_project",
+  "version": "1.0.0",
+  "description": "Tea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nika0366/nika03_tea_project.git"
+  },
+  "dependencies": {
+    "nika03_tea_project": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "tea_project_vika174": "1.0.0",
+    "my_project_tea_ahara13": "1.0.0",
+    "top_project_tea_abanara": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nika0366/nika03_tea_project/issues"
+  },
+  "homepage": "https://github.com/Nika0366/nika03_tea_project#readme"
+}
